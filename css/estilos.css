@@ -467,6 +467,23 @@
         margin-top: 300px;
     
     }
+        /*/ Habilidades/*/
+
+        .habilities {
+            padding-left: 100px;
+            align-items: center;
+            padding-top: 200px;
+         
+        }
+        .habilidades {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 70px;
+            text-decoration: underline;
+        }
+        .habilities li {
+            font-size: 35px;
+            align-self: center;
+        }
     }
     
     @media (min-width: 950px) {
